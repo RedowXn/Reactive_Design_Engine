@@ -1,4 +1,3 @@
-// src/engine.js
 export class Component {
   constructor(root) {
     this.root = document.querySelector(root);
